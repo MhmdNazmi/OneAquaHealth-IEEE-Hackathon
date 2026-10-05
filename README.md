@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
+<a href="https://canva.link/bdzdrylc4wc1xur">
+  <img src="https://img.shields.io/badge/📊%20Presentation-View%20Slides-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Presentation">
+</a>
+
 <br><br>
 
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
