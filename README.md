@@ -38,7 +38,7 @@
 
 <br>
 
-<a href="./Documentation-1.pdf">
+<a href="https://docs.google.com/document/d/13Mxg9W4w0fMgzzbXwcWhVxWQ_mtZgJFv1uyNLZ73fJ4/edit?usp=sharing">
   <img src="https://img.shields.io/badge/📖%20EXPLORE%20OUR%20AMAZING%20DOCUMENTATION-CLICK%20TO%20DISCOVER-F5B800?style=for-the-badge&labelColor=D99A00" alt="Explore Our Amazing Documentation">
 </a>
 
