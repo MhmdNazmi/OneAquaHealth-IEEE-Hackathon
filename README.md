@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20OneAquaHealth-2ea44f?style=for-the-badge" alt="Live Demo">
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/MhmdNazmi/friendly-interface-builder/tree/main">
   <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
