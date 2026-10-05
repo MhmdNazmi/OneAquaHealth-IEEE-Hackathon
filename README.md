@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="YOUR_LOVABLE_LINK">
+<a href="https://lovable.dev/preview/GcW9EjE1os6vK5Pswrco3q7xWaTsRVOg">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20OneAquaHealth-2ea44f?style=for-the-badge" alt="Live Demo">
 </a>
 
