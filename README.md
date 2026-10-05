@@ -348,6 +348,16 @@ The platform can be extended with:
 * 👥 More advanced community collaboration
 
 ---
+# 👥 Team
+
+| Team Member | Contact |
+|:---|:---|
+| **Ayisha Rehman** | [📧 Email](mailto:Ayisharehman06@gmail.com) |
+| **Hiba Iqbal** | [📧 Email](mailto:Hibaiqbal.capital@gmail.com) |
+| **Habiba Dalal** | [📧 Email](mailto:100067109@ku.ac.ae) |
+| **Mohamed Nazmi** | [📧 Email](mailto:mohamednazmi2006@gmail.com) |
+
+---
 
 # 🏆 Hackathon
 
