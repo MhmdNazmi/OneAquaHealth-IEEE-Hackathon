@@ -299,8 +299,8 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd oneaquahealth
+git clone https://github.com/MhmdNazmi/friendly-interface-builder/tree/main
+cd friendly-interface-builder
 ```
 
 ### 2️⃣ Install dependencies
