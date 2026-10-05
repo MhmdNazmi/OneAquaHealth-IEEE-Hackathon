@@ -22,6 +22,32 @@
   <img src="https://img.shields.io/badge/📊%20Presentation-View%20Slides-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Presentation">
 </a>
 
+<div align="center">
+
+### 📖✨ Our Amazing Documentation
+
+<p>
+  <strong>Want to know the story behind OneAquaHealth?</strong>
+</p>
+
+<p>
+  From our research and ideas to our design, features, and technical journey —
+  <br>
+  <strong>we put everything into one place.</strong>
+</p>
+
+<br>
+
+<a href="YOUR_DOCUMENTATION_LINK">
+  <img src="https://img.shields.io/badge/📖%20EXPLORE%20OUR%20AMAZING%20DOCUMENTATION-CLICK%20TO%20DISCOVER-F5B800?style=for-the-badge&labelColor=D99A00" alt="Explore Our Amazing Documentation">
+</a>
+
+<br><br>
+
+<sub>🌊 Take a deeper dive into the ideas, work, and journey behind OneAquaHealth.</sub>
+
+</div>
+
 <br><br>
 
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
